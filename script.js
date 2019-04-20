@@ -30,7 +30,7 @@ function Ball(p,v,r,color) {
   Balls.push(this)
 }
 function setup() {
-  createCanvas(windowWidth, windowHeight-50)
+  createCanvas(windowWidth, windowHeight)
   // createButton('hey!')
 }
 
